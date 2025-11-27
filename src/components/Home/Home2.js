@@ -30,7 +30,7 @@ function Home2() {
               and exploring the intersection of AI and web technologies.
               <br />
               <br />
-              I love working across the entire stack — from crafting beautiful frontend interfaces with <b className="purple">React</b> to building robust backend systems with <b className="purple">Node.js and Flask</b>, and currently expanding my skills in <i><b className="purple">React Native</b></i> for mobile development.
+              I love working across the entire stack — from crafting beautiful frontend interfaces with <b className="purple">React</b> to building robust backend systems with <b className="purple">Node.js and Flask</b>, and currently expanding my skills in <i><b className="purple">Deep Learning</b></i>.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
