@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sainath Reddy bhoomi</h3>
+          <h3>Designed and Developed by Sainath Reddy bhumi</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Updated on 24 Nov,2025  {year} </h3>
@@ -48,7 +48,7 @@ function Footer() {
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <FaLinkedinIn />
+                <FaLinkedinIn />d
               </a>
             </li>
             <li className="social-icons">
