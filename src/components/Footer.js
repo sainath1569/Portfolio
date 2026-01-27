@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Sainath Reddy bhumi</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Updated on 24 Nov,2025  {year} </h3>
+          <h3>Updated on 24 Jan,  {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
