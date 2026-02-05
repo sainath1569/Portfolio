@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href=""
+                href="https://portfolio-ten-pink.vercel.app"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href=""
+                href="https://portfolio-ten-pink.vercel.app"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
