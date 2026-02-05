@@ -69,7 +69,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://portfolio-ten-pink.vercel.app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -89,7 +89,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://portfolio-ten-pink.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
